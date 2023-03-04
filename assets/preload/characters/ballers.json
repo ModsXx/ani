@@ -1,0 +1,29 @@
+{
+	"animations": [
+		{
+			"indices": [],
+			"name": "ballers idle",
+			"fps": 8,
+			"anim": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ballers",
+	"position": [
+		-60,
+		280
+	],
+	"healthicon": "roddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		150,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
